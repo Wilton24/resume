@@ -119,7 +119,7 @@ export default function BodyRight() {
             <h4>Hardware Servicing</h4>
           </div>
           <div className="date-and-company">
-            <p>2016/Biliran Province State Univiersity</p>
+            <p>2016/Biliran Province State University</p>
           </div>
         </div>
       </section>
