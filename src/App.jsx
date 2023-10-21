@@ -1,5 +1,4 @@
 import "./styles/index.css";
-import profilePic from "./images/grad_pic.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faEnvelope,
@@ -7,20 +6,13 @@ import {
   faLocationDot,
 } from "@fortawesome/free-solid-svg-icons";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
+import Header from "./components/Header";
 
 export default function App() {
   return (
     <div className="app">
       <div className="resume-wrapper">
-        <div className="header">
-          <div className="header-left">
-            <h1 className="name">Wilton Gary Batiquin</h1>
-            <h3 className="position">Front-end Developer</h3>
-          </div>
-          <div className="header-right">
-            <img src={profilePic} alt="profile-pic" />
-          </div>
-        </div>
+        <Header />
 
         <div className="body">
           <div className="body-left">
