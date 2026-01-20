@@ -3,11 +3,9 @@ export default function Profile() {
     <div className="profile">
       <h2 className="bold">Profile</h2>
       <p>
-        Aspiring full-stack developer, proficient in JavaScript with the React
-        library, spends eight to twelve hours daily on the computer -- creating
-        projects and solving leet codes. Competent and effective in
-        communication and collaboration with back-end developers, designers, and
-        other team members.
+        I am a solution-oriented web developer with a keen attention to detail,
+        dedicated to professional coding based on corporate standards. I have fullstack
+        development experience and am committed to delivering highquality work aligned with company standards
       </p>
     </div>
   );

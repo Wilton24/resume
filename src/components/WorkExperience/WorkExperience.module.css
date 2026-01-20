@@ -1,0 +1,42 @@
+.workExperience {
+    margin-bottom: 30px;
+}
+
+.sectionTitle {
+    margin-bottom: 20px;
+    color: var(--dark-background);
+}
+
+/* shared grid layout */
+.positionCompany,
+.dateDescription {
+    display: grid;
+    grid-template-columns: 115px 1fr;
+    gap: 25px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.position {
+    font-weight: bold;
+    color: var(--dark-background);
+}
+
+.company {
+    font-weight: bold;
+    color: var(--medium-background);
+}
+
+.date {
+    color: var(--dark-background);
+}
+
+.dateDescription {
+    margin-bottom: 20px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
