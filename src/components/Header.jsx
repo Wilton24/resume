@@ -4,7 +4,7 @@ export default function Header() {
     <div className="header">
       <div className="header-left">
         <h1 className="name">Wilton Gary Batiquin</h1>
-        <h3 className="position">Front-end Developer</h3>
+        <h3 className="position">Full-Stack Developer</h3>
       </div>
       <div className="header-right">
         <img src={profilePic} alt="profile-pic" />

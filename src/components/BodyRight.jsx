@@ -48,24 +48,28 @@ export default function BodyRight() {
 
       <section className="right-section">
         <div className="achievements right-section">
-          <h2>Expertise</h2>
+          <h2>Skills/Expertise</h2>
           <p>
-            <li>HTML</li>
+            <li>Vue(TypeScript)</li>
           </p>
           <p>
-            <li>CSS</li>
+            <li>NextJS</li>
           </p>
           <p>
-            <li>JavaScript</li>
+            <li>React(TypeScript)</li>
           </p>
           <p>
-            <li>ReactJS</li>
+            <li>CSS (Tailwind)</li>
           </p>
           <p>
-            <li>Node JS</li>
+            <li>Node JS(Express)</li>
           </p>
           <p>
-            <li>Git</li>
+            <li>Git/Github</li>
+          </p>
+          <p>
+            <li>MySQL
+            </li>
           </p>
         </div>
       </section>
